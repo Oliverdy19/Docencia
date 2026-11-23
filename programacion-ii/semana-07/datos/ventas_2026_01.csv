@@ -1,0 +1,113 @@
+fecha,sucursal,producto,cantidad,precio_unitario
+2026-01-01,Santo Domingo,Recarga 250,4,250
+2026-01-01,Santo Domingo,Recarga 100,19,100
+2026-01-01,Santiago,Paquete 10 GB,14,800
+2026-01-01,Santiago,Recarga 100,35,100
+2026-01-01,La Vega,Paquete 10 GB,,800
+2026-01-01,La Vega,Recarga 500,18,500
+2026-01-01,Puerto Plata,Paquete 10 GB,28,800
+2026-01-01,Puerto Plata,Recarga 250,17,250
+2026-01-03,Santo Domingo,Recarga 250,25,250
+2026-01-03,Santo Domingo,Recarga 500,33,500
+2026-01-03,Santiago,Recarga 500,13,500
+2026-01-03,Santiago,Recarga 250,3,250
+2026-01-03,La Vega,Paquete 10 GB,5,800
+2026-01-03,La Vega,Paquete 5 GB,26,450
+2026-01-03,Puerto Plata,Recarga 100,37,100
+2026-01-03,Puerto Plata,Paquete 10 GB,40,800
+2026-01-05,Santo Domingo,Paquete 5 GB,37,450
+2026-01-05,Santo Domingo,Paquete 10 GB,13,800
+2026-01-05,Santiago,Recarga 250,24,250
+2026-01-05,Santiago,Paquete 5 GB,40,450
+2026-01-05,La Vega,Recarga 500,37,500
+2026-01-05,La Vega,Paquete 10 GB,27,800
+2026-01-05,Puerto Plata,Recarga 100,30,100
+2026-01-05,Puerto Plata,Paquete 5 GB,37,450
+2026-01-07,Santo Domingo,Recarga 250,,250
+2026-01-07,Santo Domingo,Recarga 500,10,500
+2026-01-07,Santiago,Recarga 100,7,100
+2026-01-07,Santiago,Recarga 500,12,500
+2026-01-07,La Vega,Recarga 100,34,100
+2026-01-07,La Vega,Recarga 500,7,500
+2026-01-07,Puerto Plata,Recarga 100,33,100
+2026-01-07,Puerto Plata,Recarga 500,36,500
+2026-01-09,SANTO DOMINGO,Paquete 5 GB,8,450
+2026-01-09,Santo Domingo,Recarga 500,34,500
+2026-01-09,Santiago,Recarga 250,23,250
+2026-01-09,Santiago,Paquete 10 GB,23,800
+2026-01-09,La Vega,Paquete 5 GB,23,450
+2026-01-09,La Vega,Paquete 10 GB,17,800
+2026-01-09,Puerto Plata,Recarga 500,40,500
+2026-01-09,Puerto Plata,Paquete 5 GB,39,450
+2026-01-11,Santo Domingo,Recarga 500,10,500
+2026-01-11,Santo Domingo,Paquete 10 GB,31,800
+2026-01-11,Santiago,Recarga 500,24,500
+2026-01-11,Santiago,Recarga 250,10,250
+2026-01-11,La Vega,Paquete 5 GB,4,450
+2026-01-11,La Vega,Paquete 10 GB,29,800
+2026-01-11,Puerto Plata,Paquete 5 GB,30,450
+2026-01-11,Puerto Plata,Recarga 250,,250
+2026-01-13,Santo Domingo,Paquete 10 GB,11,800
+2026-01-13,Santo Domingo,Recarga 500,29,500
+2026-01-13,SANTIAGO,Paquete 5 GB,3,450
+2026-01-13,Santiago,Recarga 500,10,500
+2026-01-13,La Vega,Recarga 500,16,500
+2026-01-13,LA VEGA,Recarga 100,26,100
+2026-01-13,Puerto Plata,Paquete 10 GB,9,800
+2026-01-13,Puerto Plata,Recarga 100,32,100
+2026-01-15,Santo Domingo,Recarga 500,39,500
+2026-01-15,Santo Domingo,Recarga 100,40,100
+2026-01-15,Santiago,Recarga 500,5,500
+2026-01-15,Santiago,Paquete 5 GB,17,450
+2026-01-15,La Vega,Recarga 500,25,500
+2026-01-15,La Vega,Paquete 10 GB,34,800
+2026-01-15,PUERTO PLATA,Recarga 100,11,100
+2026-01-15,Puerto Plata,Paquete 5 GB,19,450
+2026-01-17,Santo Domingo,Recarga 500,35,500
+2026-01-17,Santo Domingo,Paquete 10 GB,16,800
+2026-01-17,Santiago,Recarga 100,33,100
+2026-01-17,Santiago,Recarga 500,36,500
+2026-01-17,LA VEGA,Recarga 500,14,500
+2026-01-17,La Vega,Paquete 10 GB,14,800
+2026-01-17,Puerto Plata,Paquete 10 GB,9,800
+2026-01-17,Puerto Plata,Paquete 5 GB,4,450
+2026-01-19,Santo Domingo,Paquete 10 GB,35,800
+2026-01-19,Santo Domingo,Recarga 250,34,250
+2026-01-19,Santiago,Recarga 500,28,500
+2026-01-19,Santiago,Paquete 10 GB,15,800
+2026-01-19,La Vega,Recarga 250,11,250
+2026-01-19,LA VEGA,Paquete 10 GB,39,800
+2026-01-19,Puerto Plata,Recarga 100,22,100
+2026-01-19,Puerto Plata,Recarga 500,20,500
+2026-01-21,Santo Domingo,Recarga 250,13,250
+2026-01-21,Santo Domingo,Paquete 5 GB,14,450
+2026-01-21,Santiago,Paquete 10 GB,37,800
+2026-01-21,Santiago,Paquete 5 GB,35,450
+2026-01-21,La Vega,Paquete 5 GB,12,450
+2026-01-21,LA VEGA,Paquete 10 GB,,800
+2026-01-21,Puerto Plata,Recarga 100,40,100
+2026-01-21,Puerto Plata,Recarga 500,,500
+2026-01-23,Santo Domingo,Paquete 10 GB,8,800
+2026-01-23,Santo Domingo,Recarga 250,13,250
+2026-01-23,Santiago,Paquete 5 GB,26,450
+2026-01-23,Santiago,Recarga 250,30,250
+2026-01-23,La Vega,Recarga 500,22,500
+2026-01-23,La Vega,Recarga 250,38,250
+2026-01-23,Puerto Plata,Recarga 250,10,250
+2026-01-23,Puerto Plata,Paquete 10 GB,13,800
+2026-01-25,SANTO DOMINGO,Paquete 5 GB,30,450
+2026-01-25,Santo Domingo,Recarga 250,20,250
+2026-01-25,Santiago,Recarga 100,36,100
+2026-01-25,Santiago,Paquete 5 GB,25,450
+2026-01-25,La Vega,Recarga 250,25,250
+2026-01-25,LA VEGA,Paquete 10 GB,40,800
+2026-01-25,Puerto Plata,Paquete 10 GB,19,800
+2026-01-25,Puerto Plata,Recarga 500,32,500
+2026-01-27,Santo Domingo,Paquete 10 GB,20,800
+2026-01-27,SANTO DOMINGO,Recarga 100,5,100
+2026-01-27,Santiago,Paquete 10 GB,27,800
+2026-01-27,Santiago,Recarga 100,32,100
+2026-01-27,LA VEGA,Recarga 250,11,250
+2026-01-27,La Vega,Recarga 500,13,500
+2026-01-27,Puerto Plata,Recarga 100,36,100
+2026-01-27,Puerto Plata,Paquete 10 GB,24,800
