@@ -29,6 +29,7 @@ Docencia/
 ├── README.md                 ← portada del repositorio
 ├── REGLAS.md                 ← este documento
 ├── CLAUDE.md                 ← instrucciones para la IA (las lee sola al conectarse)
+├── herramientas/             ← generador de capturas de código y de planes en Word
 └── programacion-ii/
     ├── README.md             ← cronograma de las 13 semanas y estado de cada una
     ├── plantillas/           ← plantillas para la ficha y las preguntas
@@ -74,8 +75,10 @@ Orden fijo de diapositivas (modelo: Semana 5, 24 diapositivas):
 Reglas de las diapositivas:
 
 - Una idea por diapositiva. Si el texto no cabe con letra legible, se divide.
-- El código va en bloque con barra de acento azul a la izquierda, nunca como imagen borrosa.
-- Todo código que aparece en una diapositiva **se ejecutó antes** y la salida mostrada es la real.
+- **El código va como captura de editor**: ventana estilo Windows/VS Code, tema oscuro, colores de sintaxis, números de línea y, debajo, el panel «Salida» con lo que imprimió al ejecutarse. No se escribe código como texto plano en Canva.
+- Las capturas se generan con `herramientas/captura_codigo.py`, que **ejecuta el código** y pinta la salida real. Nunca se escribe una salida a mano.
+- Cada bloque de contenido lleva al menos una imagen: captura de código o ilustración del concepto (diagramas de flujo, antes y después, comparaciones), con los colores de la plantilla.
+- Las imágenes se guardan en `semana-XX/img/` y se importan a Canva desde el repositorio.
 - Los bloques de la presentación coinciden 1 a 1 con los bloques de la agenda del plan de clase.
 
 ---
@@ -93,6 +96,8 @@ Reglas de las diapositivas:
 9. **Errores comunes, glosario y recursos.**
 
 Formato Word: estilos de título nativos y tabla de contenido automática.
+
+**Fuente única en Markdown.** El plan se escribe en `plan-de-clase-semana-XX.md` y el `.docx` se genera desde ahí con `herramientas/plan_a_word.py`. Así, el código del plan sale de los mismos ejemplos ejecutados que las capturas de la presentación, y un cambio se hace una sola vez.
 
 ---
 
